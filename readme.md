@@ -10,7 +10,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-Follow the steps below to install and run this repo on your local machine.
+Follow the steps below to **install and run** this repo on your local machine.
 
 1. [Install GitHub desktop](https://desktop.github.com/) (if you are lost, read more instructions [here](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop))
 2. [Clone this repo from your GitHub desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)

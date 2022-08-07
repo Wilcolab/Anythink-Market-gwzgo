@@ -18,10 +18,10 @@ Follow the steps below to **install and run** this repo on your local machine.
 4. [Open a terminal on your local repo folder](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/)
 5. Verify if docker is ready by running at your terminal: `docker -v` then `docker-compose -v`  
     - You'll be ready if you are able to see a printed version on each command. If not, try [troubleshooting](https://docs.docker.com/desktop/troubleshoot/overview/)
-6. Run `docker-compose up` (you should be on the project root directory)
+6. Run `docker-compose up` (you should be on the repo root directory). More about this command can be found [here](https://docs.docker.com/engine/reference/commandline/compose_up/).
 
 
-After finished, let's test
+After you're done, let's test
 
 1. The **backend**: opening <http://localhost:3000/api/ping> on your browser
 2. The **frontend**: creating a new user on <http://localhost:3001/register>
